@@ -9,7 +9,7 @@
     "body-parser": "^1.18.3",
     "chrome-launcher": "^0.13.3",
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
     "html-pdf-chrome": "^0.6.0",
     "jsdom": "^16.2.2"
   },
